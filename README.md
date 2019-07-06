@@ -1,7 +1,23 @@
-# Kubernetes-busybox
+# Kubernetes-Task
+---
+![](images/Kubernetes-busybox-task.png)
 
-### This is Kubernetes-Task-3 
+---
 
-## busybox.yml 
+# Solution
 
-Creates a "CronJob" that runs every minute
+**A)** busybox.yml
+
+**B)** myapp.yml
+
+**C)** https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#debugging-pods
+
+**D)** report.txt
+
+**command:**
+
+* kubectl top pods > report.txt
+
+**E)** redis-image.yml
+
+**F)** test-pod.yml
