@@ -7,6 +7,7 @@
 # Solution
 
 **A)** busybox.yml
+* kubectl create -f busybox.yml 
 
 **B)** myapp.yml
 
